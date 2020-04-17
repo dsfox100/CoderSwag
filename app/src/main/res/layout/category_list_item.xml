@@ -10,6 +10,7 @@
         android:id="@+id/categoryImage"
         android:layout_width="0dp"
         android:layout_height="150dp"
+        android:layout_marginTop="8dp"
         android:layout_marginBottom="8dp"
         android:scaleType="centerCrop"
         app:layout_constraintBottom_toBottomOf="parent"
