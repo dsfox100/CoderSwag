@@ -34,7 +34,7 @@ class CategoryAdapter(context: Context, categories: List<Category>) : BaseAdapte
         }
 
 
-        
+
 
 
 
